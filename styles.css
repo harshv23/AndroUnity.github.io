@@ -52,7 +52,7 @@ a img{
   right: 20%;
   bottom: -26px;
   z-index: 3;
-  background: #64ffda !important;
+  background: #19CC87 !important;
   color: black !important;
 }
 
@@ -348,12 +348,12 @@ a img{
 
 .android-alt-link {
   text-decoration: none;
-  color: #64ffda !important;
+  color: #19CC87 !important;
   font-size: 16px;
 }
 
   .android-alt-link:hover {
-    color: #00bfa5 !important;
+    color: #19CC87 !important;
   }
 
   .android-alt-link .material-icons {
@@ -438,7 +438,7 @@ a img{
 }
 
   .android-footer a:hover {
-    color: #8bc34a;
+    color: #19CC87;
   }
 
   .android-footer .mdl-mega-footer--top-section::after {
