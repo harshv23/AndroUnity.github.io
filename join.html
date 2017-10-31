@@ -114,10 +114,58 @@
             <a class="mdl-navigation__link" href="">Send us your homescreen setup</a>
         </nav>
     </div>
+
+<style>
+    .demo-card-wide.mdl-card {
+        width: 512px;
+    }
+    .demo-card-wide > .mdl-card__title {
+        color: #000;
+        height: 60px;
+    }
+    .demo-card-wide > .mdl-card__menu {
+        color: #000;
+    }
+</style>
+
+<div style="background-color: #F3F3F3; min-height: 100%" class="android-content">
+    <div style="text-align: center" class="mdl-typography--display-1-color-contrast"><h2>Join us</h2></div>
+
+    <div style="margin: auto" class="demo-card-wide mdl-card mdl-shadow--2dp">
+        <div class="mdl-card__title">
+            <h2 class="mdl-card__title-text">WhatsApp</h2>
+        </div>
+        <div class="mdl-card__supporting-text">
+            If you want to join us you need to fill the following form. The progress can take up to one day. <br>
+            <form method="POST" action="https://formspree.io/contact@androunity.me">
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="name">
+                    <label class="mdl-textfield__label" for="name">Your full name...</label>
+                </div>
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="phone">
+                    <label class="mdl-textfield__label" for="phone">Your phone number...</label>
+                    <span class="mdl-textfield__error">...isn't a phone number!</span>
+                </div>
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="hobby">
+                    <label class="mdl-textfield__label" for="hobby">Your hobbies...</label>
+                </div>
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="learn">
+                    <label class="mdl-textfield__label" for="learn">What do you want to learn?</label>
+                </div>
+                <div>
+                    <input type="submit" value="submit">
+                </div>
+            </form>
+        </div>
+    </div>
+    <p></p>
+
+
 </div>
-
-<!-- Text -->
-
+</div>
 <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 </body>
 </html>
