@@ -2,28 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="affada75-f12b-42cb-8875-5580a3f651cc" name="Default" comment="Sync">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/fonts/lg.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/fonts/lg.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/fonts/lg.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/img/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/img/vimeo-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/img/youtube-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(10).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(11).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(12).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(13).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(14).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(15).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(16).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(17).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(18).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(19).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(2).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(20).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(21).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(22).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(23).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(24).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(25).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(26).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(27).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(28).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(29).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(3).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(30).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(31).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(32).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(33).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(34).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(35).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(4).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(5).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(6).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(7).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(8).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Screener/screener_(9).jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customization.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lg-fb-comment-box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lg-fb-comment-box.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lg-transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lg-transitions.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lightgallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/lightgallery.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/fonts/lg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lg-fullscreen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lg-thumbnail.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lightgallery-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lightgallery-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lightgallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/js/lightgallery.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/bower.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/material.css" />
@@ -33,7 +48,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/material.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/material.min.js.map" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mdl/package.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local/DSC01453 (2).JPG" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AndroUnity.iml" afterPath="$PROJECT_DIR$/.idea/AndroUnity.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
@@ -62,12 +76,11 @@
       <file leaf-file-name="customization.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/customization.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="188">
+              <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="69" />
               <folding>
                 <element signature="e#16#640#0" expanded="false" />
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -78,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
-              <caret line="553" column="0" lean-forward="true" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
+              <caret line="553" column="0" lean-forward="false" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,7 +118,11 @@
       <find>alt</find>
       <find>lightgallery</find>
       <find>photos</find>
+      <find>png</find>
     </findStrings>
+    <replaceStrings>
+      <replace>jpg</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,7 +187,13 @@
             <path>
               <item name="AndroUnity" type="b2602c69:ProjectViewProjectNode" />
               <item name="AndroUnity" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroUnity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroUnity" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="Screener" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +240,7 @@
       <workItem from="1509371235942" duration="15373000" />
       <workItem from="1509479278097" duration="8831000" />
       <workItem from="1509538179854" duration="4159000" />
-      <workItem from="1509548577594" duration="6195000" />
+      <workItem from="1509548577594" duration="6978000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <created>1509312320280</created>
@@ -237,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37556000" />
+    <option name="totallyTimeSpent" value="38339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
@@ -532,9 +555,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5100">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -542,9 +563,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7386" lean-forward="false" selection-start-line="3" selection-start-column="7386" selection-end-line="3" selection-end-column="7386" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -552,9 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="1856" lean-forward="false" selection-start-line="3" selection-start-column="1856" selection-end-line="3" selection-end-column="1856" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -573,19 +590,18 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="553" column="0" lean-forward="true" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
+          <caret line="553" column="0" lean-forward="false" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customization.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        <state relative-caret-position="188">
+          <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="69" />
           <folding>
             <element signature="e#16#640#0" expanded="false" />
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
