@@ -128,6 +128,7 @@
     }
 </style>
 
+
 <div style="background-color: #F3F3F3; min-height: 100%" class="android-content">
     <div style="text-align: center" class="mdl-typography--display-1-color-contrast"><h2>Join us</h2></div>
 
@@ -139,31 +140,36 @@
             If you want to join us you need to fill the following form. The progress can take up to one day. <br>
             <form method="POST" action="https://formspree.io/contact@androunity.me">
                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="name">
+                    <input class="mdl-textfield__input" type="text" id="name" name="name" autocomplete="off">
                     <label class="mdl-textfield__label" for="name">Your full name...</label>
                 </div>
                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="phone">
+                    <input class="mdl-textfield__input" type="text" pattern="^[0-9\-\+\s\(\)]*$" id="phone" name="phone" autocomplete="off">
                     <label class="mdl-textfield__label" for="phone">Your phone number...</label>
                     <span class="mdl-textfield__error">...isn't a phone number!</span>
                 </div>
                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="hobby">
+                    <input class="mdl-textfield__input" type="email" id="mail" name="mail" autocomplete="off">
+                    <label class="mdl-textfield__label" for="name">Your email address...</label>
+                    <span class="mdl-textfield__error">...isn't an email address!</span>
+                </div>
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="hobby" name="hobby" autocomplete="off">
                     <label class="mdl-textfield__label" for="hobby">Your hobbies...</label>
                 </div>
                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="learn">
+                    <input class="mdl-textfield__input" type="text" id="learn" name="learn" autocomplete="off">
                     <label class="mdl-textfield__label" for="learn">What do you want to learn?</label>
                 </div>
                 <div>
-                    <input type="submit" value="submit">
+                    <input type="submit" value="Submit">
                 </div>
             </form>
         </div>
     </div>
     <p></p>
 
-
+    </div>
 </div>
 </div>
 <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
