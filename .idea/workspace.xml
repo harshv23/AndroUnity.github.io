@@ -76,8 +76,8 @@
       <file leaf-file-name="customization.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/customization.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="69" />
+            <state relative-caret-position="222">
+              <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
               <folding>
                 <element signature="e#16#640#0" expanded="false" />
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -90,8 +90,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="553" column="0" lean-forward="false" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
+            <state relative-caret-position="139">
+              <caret line="554" column="9" lean-forward="false" selection-start-line="554" selection-start-column="9" selection-end-line="554" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -189,12 +189,6 @@
               <item name="AndroUnity" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AndroUnity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroUnity" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="Screener" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -240,7 +234,7 @@
       <workItem from="1509371235942" duration="15373000" />
       <workItem from="1509479278097" duration="8831000" />
       <workItem from="1509538179854" duration="4159000" />
-      <workItem from="1509548577594" duration="6978000" />
+      <workItem from="1509548577594" duration="7896000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <created>1509312320280</created>
@@ -260,7 +254,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38339000" />
+    <option name="totallyTimeSpent" value="39257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
@@ -589,16 +583,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="553" column="0" lean-forward="false" selection-start-line="553" selection-start-column="0" selection-end-line="553" selection-end-column="0" />
+        <state relative-caret-position="139">
+          <caret line="554" column="9" lean-forward="false" selection-start-line="554" selection-start-column="9" selection-end-line="554" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customization.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="52" column="69" lean-forward="false" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="69" />
+        <state relative-caret-position="222">
+          <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
           <folding>
             <element signature="e#16#640#0" expanded="false" />
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
