@@ -23,8 +23,7 @@
     <meta name="description" content="AndroUnity, the community for Android lovers.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <title>Androunity</title>
-
-    <!-- Page styles -->
+    <script src="mdl/dialog-polyfill.css"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="mdl/material.min.css">
@@ -127,13 +126,14 @@
             </button>
           </a>
         </div>
+
         <div class="android-screen-section mdl-typography--text-center">
           <a name="screens"></a>
           <div class="mdl-typography--display-1-color-contrast">About AndroUnity</div>
           <p> </p>
           <h6 class="mdl-typography">AndroUnity is a community for Android lovers and designers from all over the world. <br> We love the freedom of customization, the control and the apps of Android. <br> We created this site to share our creations, thoughts and ideas with you.</h6>
           <a class="mdl-typography--font-regular mdl-typography--text-uppercase android-alt-link" href="/about.html">
-            Read more about us&nbsp;<i class="material-icons">chevron_right</i>
+            Read more about us<i class="material-icons">chevron_right</i>
           </a>
         </div>
 
@@ -147,7 +147,7 @@
               </p>
               <p>
                 <a class="mdl-typography--font-regular mdl-typography--text-uppercase android-alt-link" href="">
-                  Join us&nbsp;<i class="material-icons">chevron_right</i>
+                  Join us <i class="material-icons">chevron_right</i>
                 </a>
               </p>
             </div>
@@ -169,6 +169,7 @@
         <div class="android-more-section">
           <div class="android-section-title mdl-typography--display-1-color-contrast">More about us</div>
           <div class="android-card-container mdl-grid">
+
             <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
               <!--<div class="mdl-card__media">
                 <img src="images/more-from-1.png">
@@ -180,15 +181,11 @@
                 <span class="mdl-typography--font-light mdl-typography--subhead">The creator of this website. He's from the beautiful Germany.</span>
               </div>
               <div class="mdl-card__actions">
-                 <button class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" id="show-dialog1" type="button">
+                 <button class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" id="show1" type="button">
                    More about him
                    <i class="material-icons">chevron_right</i>
                  </button>
-<<<<<<< HEAD
-                <dialog class="mdl-dialog">
-=======
-                <dialog class="mdl-dialog" id="dialogmb">
->>>>>>> parent of e2d7902... Merge remote-tracking branch 'origin/master'
+                <dialog class="mdl-dialog" id="dialog1">
                   <h4 class="mdl-dialog__title">Marvin Borner</h4>
                   <div class="mdl-dialog__content">
                     <p>
@@ -196,23 +193,19 @@
                     </p>
                   </div>
                   <div class="mdl-dialog__actions">
-                    <button type="button" class="mdl-button close">Close</button>
+                    <button type="button" class="mdl-button" id="close1">Close</button>
                   </div>
                 </dialog>
                 <script>
-<<<<<<< HEAD
-                    var dialog = document.querySelector('dialog');
-=======
-                    var dialog = document.querySelector('#dialogmb');
->>>>>>> parent of e2d7902... Merge remote-tracking branch 'origin/master'
-                    var showDialogButton = document.querySelector('#show-dialog1');
+                    var dialog = document.querySelector('#dialog1');
+                    var showDialogButton = document.querySelector('#show1');
                     if (! dialog.showModal) {
                         dialogPolyfill.registerDialog(dialog);
                     }
                     showDialogButton.addEventListener('click', function() {
                         dialog.showModal();
                     });
-                    dialog.querySelector('.close').addEventListener('click', function() {
+                    dialog.querySelector('#close1').addEventListener('click', function() {
                         dialog.close();
                     });
                 </script>
@@ -230,39 +223,31 @@
                 <span class="mdl-typography--font-light mdl-typography--subhead">The creator of our fantastic YouTube intro. He's from Germany too.</span>
               </div>
               <div class="mdl-card__actions">
-                <button class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" id="show-dialog2" type="button">
+                <button class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" id="show2" type="button">
                   More about him
                   <i class="material-icons">chevron_right</i>
                 </button>
-<<<<<<< HEAD
-                <dialog class="mdl-dialog">
-=======
-                <dialog class="mdl-dialog" id="dialogmf">
->>>>>>> parent of e2d7902... Merge remote-tracking branch 'origin/master'
+                <dialog class="mdl-dialog" id="dialog2">
                   <h4 class="mdl-dialog__title">Marco Fischer</h4>
                   <div class="mdl-dialog__content">
                     <p>
-                      Marco is a popular young YouTuber. In his freetime he creates intros, cuts videos, uploading the videos to YouTube... He's from Germany.
+                      Marco is a popular young YouTuber. In his freetime he creates intros, cuts videos, uploading the videos to YouTube. He is a huge android fan and a tech enthusiast. He's from Germany.
                     </p>
                   </div>
                   <div class="mdl-dialog__actions">
-                    <button type="button" class="mdl-button close">Close</button>
+                    <button type="button" class="mdl-button" id="close2">Close</button>
                   </div>
                 </dialog>
                 <script>
-<<<<<<< HEAD
-                    var dialog = document.querySelector('dialog');
-=======
-                    var dialog = document.querySelector('#dialogmf');
->>>>>>> parent of e2d7902... Merge remote-tracking branch 'origin/master'
-                    var showDialogButton = document.querySelector('#show-dialog2');
+                    var dialog = document.querySelector('#dialog2');
+                    var showDialogButton = document.querySelector('#show2');
                     if (! dialog.showModal) {
                         dialogPolyfill.registerDialog(dialog);
                     }
                     showDialogButton.addEventListener('click', function() {
                         dialog.showModal();
                     });
-                    dialog.querySelector('.close').addEventListener('click', function() {
+                    dialog.querySelector('#close2').addEventListener('click', function() {
                         dialog.close();
                     });
                 </script>
@@ -328,31 +313,6 @@
           <div class="mdl-mega-footer--middle-section">
             <p style="text-align: center" class="mdl-typography--font-light">Made with &hearts; by <a target="_blank" href="https://marvinborner.me/">Marvin Borner</a></p>
           </div>
-
-          <!--<div class="mdl-mega-footer--bottom-section">
-            <a class="android-link android-link-menu mdl-typography--font-light" id="version-dropdown">
-              Versions
-              <i class="material-icons">arrow_drop_up</i>
-            </a>
-            <ul class="mdl-menu mdl-js-menu mdl-menu--top-left mdl-js-ripple-effect" for="version-dropdown">
-              <li class="mdl-menu__item">5.0 Lollipop</li>
-              <li class="mdl-menu__item">4.4 KitKat</li>
-              <li class="mdl-menu__item">4.3 Jelly Bean</li>
-              <li class="mdl-menu__item">Android History</li>
-            </ul>
-            <a class="android-link android-link-menu mdl-typography--font-light" id="developers-dropdown">
-              For Developers
-              <i class="material-icons">arrow_drop_up</i>
-            </a>
-            <ul class="mdl-menu mdl-js-menu mdl-menu--top-left mdl-js-ripple-effect" for="developers-dropdown">
-              <li class="mdl-menu__item">App developer resources</li>
-              <li class="mdl-menu__item">Android Open Source Project</li>
-              <li class="mdl-menu__item">Android SDK</li>
-              <li class="mdl-menu__item">Android for Work</li>
-            </ul>
-            <a class="android-link mdl-typography--font-light" href="">Blog</a>
-            <a class="android-link mdl-typography--font-light" href="">Privacy Policy</a>
-          </div>-->
 
         </footer>
       </div>
