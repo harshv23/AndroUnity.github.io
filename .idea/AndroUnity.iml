@@ -12,5 +12,6 @@
     <orderEntry type="library" name="jquery.mousewheel" level="application" />
     <orderEntry type="library" name="jquery-3.2.1" level="application" />
     <orderEntry type="library" name="jquery-1.8.0" level="application" />
+    <orderEntry type="library" name="masonry.pkgd" level="application" />
   </component>
 </module>
